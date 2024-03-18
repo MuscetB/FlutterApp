@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "838949661115",
+    "project_id": "webshop-8ff3c",
+    "storage_bucket": "webshop-8ff3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838949661115:android:fe86109d5bb966aa51fc9e",
+        "android_client_info": {
+          "package_name": "com.example.admin_webshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838949661115-soi52odfjam0ukn0n7abneg0s2rv7u6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuAPereS7VnCgTLG4wxwJ3vTqgFj3GLLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838949661115-soi52odfjam0ukn0n7abneg0s2rv7u6s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "838949661115-7bi8blki3o75crs008pa2j7gd3auqbgh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.adminWebshop"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838949661115:android:f8ed3efb33d38af151fc9e",
+        "android_client_info": {
+          "package_name": "com.example.projekt_webshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838949661115-et8afe1mo0hpsg8bp75bqk5cqgvctjvc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projekt_webshop",
+            "certificate_hash": "273fc0699b0c7959e2cfe78f2dae596458e9f2e7"
+          }
+        },
+        {
+          "client_id": "838949661115-soi52odfjam0ukn0n7abneg0s2rv7u6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuAPereS7VnCgTLG4wxwJ3vTqgFj3GLLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838949661115-soi52odfjam0ukn0n7abneg0s2rv7u6s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "838949661115-7bi8blki3o75crs008pa2j7gd3auqbgh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.adminWebshop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
